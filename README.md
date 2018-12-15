@@ -19,3 +19,4 @@ Para su funcionamiento habrá que introudcir una cantidad en  la ranura de Euros
 
 Para borrar las cantidades le daremos al botón "borrar".
 
+![3 practica1](https://user-images.githubusercontent.com/35973932/50047964-3a15cb00-00b8-11e9-87f9-5bf96230a608.PNG)
