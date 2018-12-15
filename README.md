@@ -15,3 +15,7 @@ Asi será la interfaz de nuestra aplicación:
 
 Para su funcionamiento habrá que introudcir una cantidad en  la ranura de Euros y darle al botón "convertir".
 
+![2 practica1](https://user-images.githubusercontent.com/35973932/50047963-384c0780-00b8-11e9-9b72-fc0737105297.PNG)
+
+Para borrar las cantidades le daremos al botón "borrar".
+
