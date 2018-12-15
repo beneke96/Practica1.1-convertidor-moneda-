@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Convertidor</string>
+    <string name="introduzca_cantidad">Introduzca cantidad:</string>
+    <string name="Euros">Euros</string>
+    <string name="eu">€</string>
+    <string name="convertir">Convertir</string>
+    <string name="resultado">Resultado</string>
+    <string name="usd">USD</string>
+    <string name="$">$</string>
+    <string name="borrar">borrar</string>
+
+</resources>
